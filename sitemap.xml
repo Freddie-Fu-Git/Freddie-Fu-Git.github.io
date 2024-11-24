@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.writehere.ink/posts/</loc>
+    <lastmod>2024-11-24T13:50:55+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.writehere.ink/</loc>
+    <lastmod>2024-11-24T13:50:55+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.writehere.ink/posts/1be48c19/</loc>
+    <lastmod>2024-11-24T13:50:55+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.writehere.ink/posts/8c5b922b/</loc>
+    <lastmod>2024-11-23T10:46:29+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.writehere.ink/posts/743740f6/</loc>
+    <lastmod>2024-11-22T22:50:14+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.writehere.ink/7e7f96c3/</loc>
+    <lastmod>2024-11-17T15:20:55+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.writehere.ink/posts/83e321da/</loc>
+    <lastmod>2024-11-17T12:40:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

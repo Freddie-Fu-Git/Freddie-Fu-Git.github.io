@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Write Here</title>
+    <link>https://www.writehere.ink/posts/</link>
+    <description>Recent content in Posts on Write Here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>write.here@foxmail.com (FreddieFu)</managingEditor>
+    <webMaster>write.here@foxmail.com (FreddieFu)</webMaster>
+    <copyright>© 2024 FreddieFu</copyright>
+    <lastBuildDate>Sun, 24 Nov 2024 13:50:55 +0800</lastBuildDate><atom:link href="https://www.writehere.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安装HUGO</title>
+      <link>https://www.writehere.ink/posts/1be48c19/</link>
+      <pubDate>Sun, 24 Nov 2024 13:50:55 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/posts/1be48c19/</guid>
+      <description>&lt;p&gt;HUGO博客安装比较简单，跟着 [官网教程](&lt;a href=&#34;https://gohugo.io/installation/windows/&#34; target=&#34;_blank&#34;&gt;Windows | Hugo&lt;/a&gt;) 即可轻松完成安装&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/1be48c19/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hello Hugo, Hello World</title>
+      <link>https://www.writehere.ink/posts/8c5b922b/</link>
+      <pubDate>Sat, 23 Nov 2024 10:46:29 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/posts/8c5b922b/</guid>
+      <description>&lt;p&gt;一年时间，终于决定把博客从 WordPress 迁移至 HUGO&lt;/p&gt;
+&lt;p&gt;原因很简单，一方面，我的文章并不多，但 WordPress 的访问速度已经有些慢了，而 HUGO 作为静态博客，则完全没有这方面的顾虑；另一方面，我逐渐开始使用 Obsidian 记录笔记/日记，WordPress 对于 MarkDown 的支持不太友好，故考虑迁移博客。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/8c5b922b/featured.webp" />
+    </item>
+    
+    <item>
+      <title>平淡中蕴藏的感动《葬送的芙莉莲》观后感</title>
+      <link>https://www.writehere.ink/posts/743740f6/</link>
+      <pubDate>Fri, 22 Nov 2024 22:50:14 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/posts/743740f6/</guid>
+      <description>&lt;p&gt;我从未想过，关于这部作品的思考和文字会如此漫长，如同一条蜿蜒的河流，时而平静，时而湍急。我反复删减，试图寻找一种恰如其分的语言来表达《葬送的芙莉莲》给我带来的感受，却发现这并非易事。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/743740f6/featured.webp" />
+    </item>
+    
+    <item>
+      <title>聊一聊《游戏王》25周年特别动画短片</title>
+      <link>https://www.writehere.ink/posts/83e321da/</link>
+      <pubDate>Sun, 17 Nov 2024 12:40:53 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/posts/83e321da/</guid>
+      <description>&lt;p&gt;2024年2月3日《游戏王》官方KONAMI公开了25周年特别动画“游戏王卡牌游戏编年史”，短片围绕游戏王25年发展中不同主题卡片的背景故事展开。曾经幻想过无数次的精致卡图中的人物和故事终于不再只是卡片上的一张插图，杂志中的寥寥数语，而是以动画的形式出现在了荧幕之上。通篇看完只有感动。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/83e321da/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

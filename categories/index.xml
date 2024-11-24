@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Write Here</title>
+    <link>https://www.writehere.ink/categories/</link>
+    <description>Recent content in Categories on Write Here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>write.here@foxmail.com (FreddieFu)</managingEditor>
+    <webMaster>write.here@foxmail.com (FreddieFu)</webMaster>
+    <copyright>© 2024 FreddieFu</copyright>
+    <lastBuildDate>Sun, 24 Nov 2024 13:50:55 +0800</lastBuildDate><atom:link href="https://www.writehere.ink/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://www.writehere.ink/categories/notes/</link>
+      <pubDate>Sun, 24 Nov 2024 13:50:55 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/categories/notes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Daily</title>
+      <link>https://www.writehere.ink/categories/daily/</link>
+      <pubDate>Fri, 22 Nov 2024 22:50:14 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/categories/daily/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
