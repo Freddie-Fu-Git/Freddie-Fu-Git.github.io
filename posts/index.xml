@@ -16,7 +16,20 @@
       <pubDate>Sun, 24 Nov 2024 13:50:55 +0800</pubDate>
       <author>write.here@foxmail.com (FreddieFu)</author>
       <guid>https://www.writehere.ink/posts/1be48c19/</guid>
-      <description>&lt;p&gt;HUGO博客安装比较简单，跟着 [官网教程](&lt;a href=&#34;https://gohugo.io/installation/windows/&#34; target=&#34;_blank&#34;&gt;Windows | Hugo&lt;/a&gt;) 即可轻松完成安装&lt;/p&gt;</description>
+      <description>&lt;p&gt;HUGO博客安装比较简单，跟着 &lt;a href=&#34;https://gohugo.io/installation/windows/&#34; target=&#34;_blank&#34;&gt;Windows | Hugo&lt;/a&gt; 即可轻松完成安装&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;环境配置 
+    &lt;div id=&#34;%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;安装HUGO博客需要电脑已经安装Git，若没有安装可以访问 &lt;a href=&#34;https://git-scm.com/download/win&#34; target=&#34;_blank&#34;&gt;Git for Windows&lt;/a&gt; 下载安装&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/1be48c19/featured.png" />
     </item>
     
