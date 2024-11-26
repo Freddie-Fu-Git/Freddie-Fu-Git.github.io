@@ -9,7 +9,17 @@
     <managingEditor>write.here@foxmail.com (FreddieFu)</managingEditor>
     <webMaster>write.here@foxmail.com (FreddieFu)</webMaster>
     <copyright>© 2024 FreddieFu</copyright>
-    <lastBuildDate>Sun, 24 Nov 2024 13:50:55 +0800</lastBuildDate><atom:link href="https://www.writehere.ink/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Nov 2024 22:07:39 +0800</lastBuildDate><atom:link href="https://www.writehere.ink/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>设置 Git 代理</title>
+      <link>https://www.writehere.ink/posts/f7d92018/</link>
+      <pubDate>Tue, 26 Nov 2024 22:07:39 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/posts/f7d92018/</guid>
+      <description>&lt;p&gt;在使用 GitHub 子模块安装 HUGO 主题时会提示无法连接到仓库，网上搜索后发现原因为未设置 Git 代理。在 CMD 中使用下方命令可开启代理&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/f7d92018/featured.jpg" />
+    </item>
+    
     <item>
       <title>安装HUGO</title>
       <link>https://www.writehere.ink/posts/1be48c19/</link>
