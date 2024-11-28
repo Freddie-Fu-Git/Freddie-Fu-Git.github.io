@@ -22,7 +22,7 @@
 &lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/mainroad/&#34; target=&#34;_blank&#34;&gt;Mainroad | Hugo Themes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;最终因 Mainroad 主题风格太过严肃，而 BlowFish 主题样式与 WordPress 使用的 Autumn Pro 主题较为相近，且文档更为详尽，选择了 BlowFish 主题&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/1794326e/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/1794326e/featured.webp" />
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <author>write.here@foxmail.com (FreddieFu)</author>
       <guid>https://www.writehere.ink/posts/f7d92018/</guid>
       <description>&lt;p&gt;在使用 GitHub 子模块安装 HUGO 主题时会提示无法连接到仓库，网上搜索后发现原因为未设置 Git 代理。在 CMD 中使用下方命令可开启代理&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/f7d92018/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/f7d92018/featured.webp" />
     </item>
     
     <item>
@@ -55,7 +55,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;安装HUGO博客需要电脑已经安装Git，若没有安装可以访问 &lt;a href=&#34;https://git-scm.com/download/win&#34; target=&#34;_blank&#34;&gt;Git for Windows&lt;/a&gt; 下载安装&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/1be48c19/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/1be48c19/featured.webp" />
     </item>
     
     <item>
