@@ -16,7 +16,7 @@
       <pubDate>Sun, 01 Dec 2024 16:35:31 +0800</pubDate>
       <author>write.here@foxmail.com (FreddieFu)</author>
       <guid>https://www.writehere.ink/posts/9b8f5076/</guid>
-      <description>&lt;p&gt;安装好 BlowFish 主题后，需要将 &lt;code&gt;\themes\blowfish\config&lt;/code&gt; 目录下的 &lt;code&gt;_default&lt;/code&gt; 文件夹复制到 &lt;code&gt;\config&lt;/code&gt; 中，并删除根目录下的 &lt;code&gt;hugo.toml&lt;/code&gt; 文件，并修改 &lt;code&gt;\config\_default\hugo.toml&lt;/code&gt; 文件，将 &lt;code&gt;theme = &amp;quot;blowfish&amp;quot;&lt;/code&gt; 取消注释，以激活主题。&lt;/p&gt;</description>
+      <description>&lt;p&gt;安装好 BlowFish 主题后，需要将 &lt;code&gt;\themes\blowfish\config&lt;/code&gt; 目录下的 &lt;code&gt;_default&lt;/code&gt; 文件夹复制到 &lt;code&gt;\config&lt;/code&gt; 中，删除根目录下的 &lt;code&gt;hugo.toml&lt;/code&gt; 文件，并修改 &lt;code&gt;\config\_default\hugo.toml&lt;/code&gt; 文件，将 &lt;code&gt;theme = &amp;quot;blowfish&amp;quot;&lt;/code&gt; 取消注释，以激活主题。&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/9b8f5076/featured.webp" />
     </item>
     
