@@ -9,7 +9,17 @@
     <managingEditor>write.here@foxmail.com (FreddieFu)</managingEditor>
     <webMaster>write.here@foxmail.com (FreddieFu)</webMaster>
     <copyright>© 2024 FreddieFu</copyright>
-    <lastBuildDate>Sun, 01 Dec 2024 16:35:31 +0800</lastBuildDate><atom:link href="https://www.writehere.ink/series/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 22:47:37 +0800</lastBuildDate><atom:link href="https://www.writehere.ink/series/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>添加Twikoo评论</title>
+      <link>https://www.writehere.ink/posts/259e6f19/</link>
+      <pubDate>Thu, 05 Dec 2024 22:47:37 +0800</pubDate>
+      <author>write.here@foxmail.com (FreddieFu)</author>
+      <guid>https://www.writehere.ink/posts/259e6f19/</guid>
+      <description>&lt;p&gt;之前使用 Typecho 和 WordPress 这些动态博客，都是默认带评论区的，换到 HUGO 虽然小站没多少访问量，但果然还是希望有一个评论区，能够和八分访客有些互动和交流。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.writehere.ink/posts/259e6f19/featured.webp" />
+    </item>
+    
     <item>
       <title>配置主题</title>
       <link>https://www.writehere.ink/posts/9b8f5076/</link>

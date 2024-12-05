@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://www.writehere.ink/posts/</loc>
-    <lastmod>2024-12-01T16:35:31+08:00</lastmod>
+    <lastmod>2024-12-05T22:47:37+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.writehere.ink/</loc>
-    <lastmod>2024-12-01T16:35:31+08:00</lastmod>
+    <lastmod>2024-12-05T22:47:37+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.writehere.ink/posts/259e6f19/</loc>
+    <lastmod>2024-12-05T22:47:37+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
