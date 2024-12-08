@@ -1319,23 +1319,17 @@
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-        <div class="article-comments">
-<link href="http://artalk.example.com:8080/dist/Artalk.css" rel="stylesheet" />
-
-
-<script src="http://artalk.example.com:8080/dist/Artalk.js"></script>
-
-
-<div id="Comments"></div>
+        <div id="tcomment"></div>
+<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.40/dist/twikoo.all.min.js"></script>
 <script>
-Artalk.init({
-  el:        '#Comments',                       
-  pageKey:   '/posts/',                         
-  pageTitle: '',         
-  server:    'https://artalk.writehere.ink',  
-  site:      'Write Here',                    
+twikoo.init({
+  envId: 'https://twikoo.writehere.ink/.netlify/functions/twikoo', 
+  el: '#tcomment', 
+  
+  
+  
 })
-</script></div>
+</script>
       </div>
     </div>
     
